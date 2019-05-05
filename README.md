@@ -9,7 +9,7 @@
 * [A Cidade](#a-cidade)
 * [Atividade dos Eventos](#atividade-dos-eventos)
 * [Por que Patrocinar?](#por-que-patrocinar)
-* [Cotas de Patrocínio](#cotas-de-patrocinio)
+* [Cotas de Patrocínio](#cotas-de-patrocínio)
 * [Contato](#contato)
 
 ## Os Eventos
