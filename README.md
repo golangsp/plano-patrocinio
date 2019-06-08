@@ -64,35 +64,20 @@ Como retorno, além de alcançar visibilidade, você poderá capacitar a sua equ
 
 ![alt text](src/marcas.png "Quem já cedeu espaço os eventos")
 
-## Cotas de Patrocínio
+## Patrocínio
 
 ### Faça Parte do Evento
 
-**DIAMANTE**: R$ 2.000,00
+
+**COTAS**:  NÃO ACEITAMOS COTAS EM DINHEIRO
+
+**Nossa proposta de patrocínio**
+* Nos oferte o local e o coffee.
+* Nos oferte brindes que possamos repassá-los aos participantes.
 
 **Exposição da Marca**
-* Apresentação da marca na camisa do evento.
-* Apresentação da marca no site do evento.
-* Apresentação da marca no banner de entrada do evento.
-* Possibilidade de ofertar brindes aos participantes durante o evento.
-* Exposição da marca nas salas do evento.
-* Divulgação em nossas redes sociais, além de vídeo institucional (30s).
-
-**PLATINA**: R$ 1.000,00
-
-**Exposição da Marca**
-* Apresentação da marca na camisa do evento.
-* Apresentação da marca no site do evento.
-* Apresentação da marca no banner de entrada do evento.
-* Possibilidade de ofertar brindes aos participantes durante o evento.
-* Divulgação em nossas redes sociais.
-
-**OURO**:  R$ 500,00
-
-**Exposição da Marca**
-* Apresentação da marca na camisa do evento.
-* Apresentação da marca no site do evento.
-* Possibilidade de ofertar brindes aos participantes durante o evento.
+* Sua marca nos brindes ofertados no evento.
+* Sua marca no site do evento.
 * Divulgação em nossas redes sociais.
 
 ## Contato
