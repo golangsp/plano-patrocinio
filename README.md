@@ -9,7 +9,7 @@
 * [A Cidade](#a-cidade)
 * [Atividade dos Eventos](#atividade-dos-eventos)
 * [Por que Patrocinar?](#por-que-patrocinar)
-* [Cotas de Patrocínio](#cotas-de-patrocínio)
+* [Patrocínio](#patrocínio)
 * [Contato](#contato)
 
 ## Os Eventos
@@ -54,15 +54,15 @@ A comunidade Golang SP reúne um público composto por pessoas nas áreas de des
 
 Como retorno, além de alcançar visibilidade, você poderá capacitar a sua equipe, oferecer propostas, recrutar profissionais e/ou criar parcerias de negócios.
 
-## Quantidade de Incrições
+## Quantidade de Inscrições
 
-É importante esclarecer que a quantidade de incrições é limitada de acordo com o espaço onde o evento é realizado.
+É importante esclarecer que a quantidade de inscrições é limitada de acordo com o espaço onde o evento é realizado.
 
-![alt text](src/estatisticas.png "Quantidade de Incrições")
+![alt text](src/estatisticas.png "Quantidade de Inscrições")
 
-### Quem já cedeu espaço os eventos
+### Quem já cedeu espaço para os eventos
 
-![alt text](src/marcas.png "Quem já cedeu espaço os eventos")
+![alt text](src/marcas.png "Quem já cedeu espaço para os eventos")
 
 ## Patrocínio
 
